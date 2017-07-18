@@ -1,0 +1,60 @@
+{
+	"9o.hist.C:\\":
+	[
+		"cd ..",
+		"cd"
+	],
+	"9o.hist.C:\\Users":
+	[
+		"cd .."
+	],
+	"9o.hist.C:\\Users\\whfastweb":
+	[
+		"cd .."
+	],
+	"9o.hist.C:\\Users\\whfastweb\\Desktop":
+	[
+		"cd .."
+	],
+	"9o.hist.C:\\Users\\whfastweb\\Desktop\\GoExercise":
+	[
+		"go version",
+		"go run hello.go",
+		"go run http.go",
+		"cd ..",
+		"echo %GOPATH%",
+		"go build https2.go",
+		"dir",
+		"dir *.exe",
+		"del *.exe",
+		"del pppp.go",
+		"del haha.go",
+		"del Expr.go",
+		"open",
+		"date",
+		"time",
+		"cls",
+		"help",
+		"ls",
+		"clear",
+		"del ls.txt"
+	],
+	"9o.hist.E:\\GoLinux\\GameServer\\src\\cg":
+	[
+		"ls"
+	],
+	"9o.hist.E:\\GoLinux\\GameServer\\src\\cgss":
+	[
+		"cls",
+		"ls -alh",
+		"alias",
+		"clear"
+	],
+	"9o.hist.E:\\GoLinux\\GameServer\\src\\ipc":
+	[
+		"go fmt"
+	],
+	"ann": "a17.03.05-1",
+	"install_version": "r17.03.05-1",
+	"version": "r17.03.05-1"
+}
